@@ -1,19 +1,16 @@
 {
-  "name": "@cinotify/email",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/cinotify/js.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/cinotify/js/issues"
-  },
-  "homepage": "https://github.com/cinotify/js#readme",
-  "description": ""
+    "name": "@cinotify/js",
+    "version": "1.0.2",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": "https://github.com/cinotify/js",
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/cinotify/js/issues"
+    },
+    "homepage": "https://github.com/cinotify/js#readme",
+    "description": ""
 }
