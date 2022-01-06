@@ -5,13 +5,13 @@ This package is used by the [CI Notify GitHub Action](https://github.com/cinotif
 ## Installation
 
 ```
-$ npm install -s @cinotify/email
+$ npm install -s @cinotify/js
 ```
 
 ## Usage
 
 ```js
-const {email} = require("@cinotify/email");
+const {email} = require("@cinotify/js");
 email({
   to: 'example@example.com',
   subject: 'hello',
